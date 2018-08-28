@@ -6,7 +6,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "pwa-icon.png",
+      "src": "/image/pwa-icon.png",
       "type": "image/png",
       "sizes": "192x192"
     }
