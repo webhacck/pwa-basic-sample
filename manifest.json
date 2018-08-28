@@ -1,0 +1,16 @@
+{
+  "lang": "ja",
+  "short_name": "PWAサイト",
+  "name": "これはサンプルのPWAサイトです",
+  "start_url": "【最初に表示するURL】",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "pwa-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#2196F3",
+  "orientation": "portrait"
+}
